@@ -1,1 +1,0 @@
-export { AboutPageLazy } from './AboutPageLazy';
